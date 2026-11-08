@@ -1,11 +1,11 @@
-pysqlite3-binary
-langchain
-chromadb
-unstructured
+streamlit
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
 sentence-transformers
 faiss-cpu
 tiktoken
-openai
 pypdf
-loguru
 docx2txt
